@@ -5,9 +5,6 @@
 🚀 Passionate about building modern web applications and continuously learning new technologies.
 
 ---
-
-## 👨‍💻 About Me
-
 ## 👨‍💻 About Me
 
 I am a Full Stack Developer passionate about building scalable applications and solving real-world problems through technology. I enjoy learning new technologies, improving my engineering skills, and creating software that delivers meaningful value to users.
