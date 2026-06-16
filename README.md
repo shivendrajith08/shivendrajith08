@@ -9,7 +9,7 @@
 
 I am a Full Stack Developer passionate about building scalable applications and solving real-world problems through technology. I enjoy learning new technologies, improving my engineering skills, and creating software that delivers meaningful value to users.
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Languages:**
 
@@ -40,6 +40,7 @@ I am a Full Stack Developer passionate about building scalable applications and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 ---
 
 📫 **Let's Connect**
