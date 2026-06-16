@@ -13,6 +13,10 @@
 * Familiar with Flask, Django, Spring Boot, MySQL, and PostgreSQL
 * Passionate about learning, problem-solving, and building real-world applications
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897597-5d6f9c84-5f77-4d34-9b4f-7a66a5f5f4b8.gif" width="500">
+</p>
+
 ---
 
 ## 🛠 Tech Stack
