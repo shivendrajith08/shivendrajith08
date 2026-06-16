@@ -14,7 +14,7 @@
 * Passionate about learning, problem-solving, and building real-world applications
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897597-5d6f9c84-5f77-4d34-9b4f-7a66a5f5f4b8.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-3c1f0f5d-7c57-4a3a-8b1c-1b1d5f6c5f8e.gif" width="500">
 </p>
 
 ---
