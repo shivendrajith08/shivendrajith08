@@ -1,6 +1,6 @@
 # Hi there, I'm Shivendra Jith 👋
 
-### Software Engineer | Full Stack Developer
+### Full Stack Developer | Software Engineer
 
 🚀 Passionate about building modern web applications and continuously learning new technologies.
 
