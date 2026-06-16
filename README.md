@@ -1,18 +1,17 @@
 # Hi there, I'm Shivendra Jith 👋
 
-### Full Stack Developer | Python | Java | React
+### Aspiring Software Engineer | Full Stack Developer | Python • Java • React
 
-🚀 Passionate about building scalable web applications and continuously learning modern software development technologies.
+🚀 Passionate about building modern web applications and continuously learning new technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-* Full Stack Developer with experience in Python and Java
-* Skilled in building RESTful APIs and responsive web applications
-* Experience with Flask, Django, Spring Boot, and React.js
-* Strong foundation in MySQL, PostgreSQL, Git, and GitHub
-* Interested in Backend Development and Full Stack Engineering
+* Full Stack Developer with a strong interest in backend and web development
+* Experienced in Python, Java, React, and RESTful APIs
+* Familiar with Flask, Django, Spring Boot, MySQL, and PostgreSQL
+* Passionate about learning, problem-solving, and building real-world applications
 
 ---
 
@@ -48,22 +47,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
+---
+
 ## 🌱 Currently Learning
 
 * Advanced Spring Boot
 * Backend Architecture
-* Full Stack Application Development
 * Cloud Deployment
-
----
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**
-Alagappa University
-
-**Bachelor of Computer Applications (BCA)**
-Nesamony Memorial Christian College
 
 ---
 
@@ -76,6 +66,5 @@ Nesamony Memorial Christian College
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shivendrajith08)
 
 ---
-🚀 From learning concepts to building real-world solutions.
----
-⭐ Thanks for visiting my profile!
+
+💡 Turning ideas into impactful software, one project at a time.
