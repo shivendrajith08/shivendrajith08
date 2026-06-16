@@ -67,9 +67,15 @@ Nesamony Memorial Christian College
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-* GitHub: github.com/shivendrajith08
-* LinkedIn: linkedin.com/in/shivendra-jith
+* 📧 **Email:** [shivendrajith@gmail.com](mailto:shivendrajith@gmail.com)
+* 💼 **LinkedIn:** https://linkedin.com/in/shivendra-jith
+* 💻 **GitHub:** https://github.com/shivendrajith08
+
+---
+
+🚀 From learning concepts to building real-world solutions.
+
 
 ⭐ Thanks for visiting my profile!
