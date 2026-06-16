@@ -8,11 +8,9 @@
 
 ## 👨‍💻 About Me
 
-* Full Stack Developer with a strong interest in backend and web development
-* Experienced in Python, Java, React, and RESTful APIs
-* Familiar with Flask, Django, Spring Boot, MySQL, and PostgreSQL
-* Passionate about learning, problem-solving, and building real-world applications
----
+## 👨‍💻 About Me
+
+I am a Full Stack Developer passionate about building scalable applications and solving real-world problems through technology. I enjoy learning new technologies, improving my engineering skills, and creating software that delivers meaningful value to users.
 
 ## 🛠 Tech Stack
 ### Languages
