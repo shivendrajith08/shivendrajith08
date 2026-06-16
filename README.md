@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there, I'm Shivendra Jith 👋
 
-<!--
-**shivendrajith08/shivendrajith08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Python | Java | React
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable web applications and continuously learning modern software development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* Full Stack Developer with experience in Python and Java
+* Skilled in building RESTful APIs and responsive web applications
+* Experience with Flask, Django, Spring Boot, and React.js
+* Strong foundation in MySQL, PostgreSQL, Git, and GitHub
+* Interested in Backend Development and Full Stack Engineering
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* Java
+* JavaScript
+* HTML5
+* CSS3
+
+### Frameworks & Libraries
+
+* Flask
+* Django
+* Spring Boot
+* React.js
+
+### Databases
+
+* MySQL
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+## 🌱 Currently Learning
+
+* Advanced Spring Boot
+* Backend Architecture
+* Full Stack Application Development
+* Cloud Deployment
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**
+Alagappa University
+
+**Bachelor of Computer Applications (BCA)**
+Nesamony Memorial Christian College
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: github.com/shivendrajith08
+* LinkedIn: linkedin.com/in/shivendra-jith
+
+⭐ Thanks for visiting my profile!
