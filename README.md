@@ -1,6 +1,6 @@
 # Hi there, I'm Shivendra Jith 👋
 
-### Aspiring Software Engineer | Full Stack Developer | Python • Java • React
+### Software Engineer | Full Stack Developer
 
 🚀 Passionate about building modern web applications and continuously learning new technologies.
 
