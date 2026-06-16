@@ -9,8 +9,8 @@
 
 I am a Full Stack Developer passionate about building scalable applications and solving real-world problems through technology. I enjoy learning new technologies, improving my engineering skills, and creating software that delivers meaningful value to users.
 
-### 🛠 Tech Stack
-Languages:
+## 🛠 Tech Stack
+## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
